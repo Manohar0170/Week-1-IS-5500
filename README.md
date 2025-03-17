@@ -2,11 +2,9 @@
 
 
 <ol>
-  
-  <il> Introduction </il>
-  <il> Week 1 Assinment </il>
-  <il> Week 1 Discussion </il>
-  <li> Inclass Activity </li>
+
+  <il> Introdution </il>
+  <il> Week 1 Assignment </il>
 
 </ol>
 
